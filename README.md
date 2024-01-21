@@ -10,10 +10,13 @@ Pastikan Anda memiliki Node.js dan npm terinstal di sistem Anda sebelum melanjut
    git clone https://github.com/nama-pengguna/nama-repositori.git
    
 2. **Move to directory Project**
+   ```bash
    cd nama-repositori
 
-3. **Install aplication**
+4. **Install aplication**
+   ```bash
    npm install
 
-4. **Run application**
+6. **Run application**
+   ```bash
    npm start
