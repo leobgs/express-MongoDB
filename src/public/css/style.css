@@ -1,0 +1,81 @@
+body {
+    background-color: #f8f9fa;
+}
+
+nav {
+    background-color: #007bff;
+}
+
+nav a.navbar-brand,
+nav button.navbar-toggler-icon {
+    color: #090808;
+}
+
+nav button.navbar-toggler {
+    border: none;
+}
+
+.container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.mt-4,
+.mb-4 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+hr {
+    border-top: 2px solid #007bff;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-danger:hover {
+    background-color: #bb2d3b;
+    border-color: #bb2d3b;
+}
+
+.modal-content {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-control {
+    border-color: #007bff;
+}
+
+.form-control:focus {
+    border-color: #0056b3;
+    box-shadow: 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.alert-info {
+    background-color: #007bff;
+    color: #fff;
+}
+
+footer {
+    background-color: #b0acac;
+    padding: 1rem 0;
+}
